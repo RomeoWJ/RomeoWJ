@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://pin.it/79zbPJOfe](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdpOXZ6ZzFrYnJsMjRyazdyYno4cDdua2g5cXR6bTV1Z3dnN3k1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zRkeKuEz07wjjRNY7k/giphy.gif)" width="100%" alt="Developer Workspace" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdpOXZ6ZzFrYnJsMjRyazdyYno4cDdua2g5cXR6bTV1Z3dnN3k1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zRkeKuEz07wjjRNY7k/giphy.gif" width="100%" alt="Developer Workspace" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Romeo</h1>

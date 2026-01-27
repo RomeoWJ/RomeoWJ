@@ -11,13 +11,12 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
-- 🔭 I'm currently working on **Data Engineering and Analytics pipelines** at Savannah Informatics.
-- 🌱 I'm currently sharpening my skills in **Ethical Hacking and Penetration Testing**.
-- 💬 Ask me about **Data Science (Python/SQL), BigQuery, or Ubuntu Customization**.
-- 📫 Reach me at: **waimiri.romeo@email.com**
-- ⚡ Fun fact: **I prefer a fresh, encrypted Ubuntu install over Windows any day.**
+I'm currently working on **Data Engineering and Analytics pipelines** at Savannah Informatics as an Intern.
+I'm currently sharpening my skills in **Ethical Hacking and Penetration Testing**.
+Ask me about **Data Science (Python/SQL), BigQuery, and Data Analytics**.
+Reach me at: **waimiri.romeo@gmail.com**
 
 ---
 
@@ -61,13 +60,5 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/waimiri-romeo)
-
-</div>
-
----
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=RomeoWJ&color=blueviolet&style=for-the-badge)
 
 </div>

@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDu1Mqx/giphy.gif"  />
-</div>
-
 <h1 align="center">Hi 👋, I'm Romeo</h1>
 <h3 align="center">Data Scientist & Aspiring Cybersecurity Professional from Nairobi, Kenya</h3>
 
@@ -44,7 +40,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomeoWJ&layout=compact&theme=tokyonight&hide_border=true" alt="Languages">
 </div>
 
 ---
@@ -61,6 +57,6 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=RomeoWJ&color=blueviolet&style=for-the-badge)
 
 </div>

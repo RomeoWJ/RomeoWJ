@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="(https://pin.it/79zbPJOfe)" width="100%" alt="Developer Workspace" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Romeo</h1>
 <h3 align="center">Data Scientist & Aspiring Cybersecurity Professional from Nairobi, Kenya</h3>
 

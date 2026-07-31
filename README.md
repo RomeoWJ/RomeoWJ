@@ -13,9 +13,9 @@
 
 ## About Me
 
-I'm currently working on **Data Engineering and Analytics pipelines** at Savannah Informatics as an Intern.
+I'm currently working on **Data Engineering and Analytics pipelines** at Savannah Informatics as a junior Data Analyst.
 I'm currently sharpening my skills in **Ethical Hacking and Penetration Testing**.
-Ask me about **Data Science (Python/SQL), BigQuery, and Data Analytics**.
+Ask me about **Data Science, Data Engineering, and Data Analytics**.
 Reach me at: **waimiri.romeo@gmail.com**
 
 ---

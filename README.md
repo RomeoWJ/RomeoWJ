@@ -6,7 +6,7 @@
 <h3 align="center">Data Scientist & Aspiring Cybersecurity Professional from Nairobi, Kenya</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Intern+%40+Savannah;Ethical+Hacker+in+Training;Ubuntu+Power+User;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Junior+Data+Professional+%40+Savannah;Ethical+Hacker;Ubuntu+Power+User;Always+Learning" alt="Typing SVG" />
 </p>
 
 ---
